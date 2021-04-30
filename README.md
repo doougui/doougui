@@ -25,6 +25,7 @@
 
 <h2>📘 My latest posts</h2>
 <ul>
+  <li><a href="https://dev.to/doougui/deploying-your-laravel-mysql-application-on-heroku-5d92"><b>🚀 Deploying your Laravel + MySQL application on Heroku</b></a><br/><i>Show your Laravel project to the world.</i></li>
   <li><a href="https://dev.to/doougui/como-fazer-efeito-de-skeleton-loading-com-react-hooks-23hp"><b>⚛️ Como fazer efeito de skeleton loading com ReactJS</b></a><br/><i>Melhore a UX do seu app mostrando um esqueleto do conteúdo.</i></li>
 </ul>
 
