@@ -1,7 +1,7 @@
 
 <h1>Hello world <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px />! I'm <a href="https://douglasgoulart.com">Douglas</a></h1> 
 <p>
-    Full-stack developer, Laravel evangelist and tech lover 💖.
+    Full-stack developer moved by curiosity, Laravel evangelist and tech lover 💖.
 </p>
 <p>
     <a href="https://douglasgoulart.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-douglasgoulart.com-107BEB?style=flat-square&amp;labelColor=107BEB&amp;logo=Firefox&amp;link=https://douglasgoulart.com" target="_blank" rel="noreferrer" alt="Website Badge"></a> 
