@@ -55,6 +55,7 @@
 </a>
 
 <h2>:briefcase: My GitLab Stats</h2>
-[![My GitLab contributions](https://combinedcodingstats.azurewebsites.net/gitlab/douglaspigoulart)](https://github.com/doougui)
+
+[![Douglas Pinheiro Goulart GitLab Stats](https://combinedcodingstats.azurewebsites.net/gitlab/douglaspigoulart)](https://github.com/doougui)
 
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=doougui.doougui" alt="visitors"></p>
