@@ -54,6 +54,7 @@
 <img src="https://github-readme-stats.vercel.app/api/?username=doougui&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=doougui.doougui" alt="visitors"></p>
-
+<h2>:briefcase: My GitLab Stats</h2>
 [![My GitLab contributions](https://combinedcodingstats.azurewebsites.net/gitlab/douglaspigoulart)](https://github.com/doougui)
+
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=doougui.doougui" alt="visitors"></p>
