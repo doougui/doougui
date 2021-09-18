@@ -55,3 +55,5 @@
 </a>
 
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=doougui.doougui" alt="visitors"></p>
+
+[![My GitLab contributions](https://combinedcodingstats.azurewebsites.net/gitlab/douglaspigoulart)](https://github.com/doougui)
