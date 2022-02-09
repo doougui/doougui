@@ -18,7 +18,7 @@
 <ul>
     <li>👨‍💻 Most of my projects are available on <a href="https://github.com/doougui">Github</a></li>
     <li>✨ My favorite development tool is <a href="https://laravel.com/" target="_blank" rel="noreferrer">Laravel</a></li>
-    <li>🎮 I play games as a hobby and my favorite ones are Life is Strange, NieR Automata and the Red Dead Redemption.</li>
+    <li>🎮 I play games as a hobby and my favorite ones are Life is Strange, NieR: Automata and the Red Dead Redemption.</li>
     <li>✍️ Sometimes I like to share cool things I learn. You can check my <a href="https://dev.to/doougui">blog posts here</a>.</li>
     <li>🌎 I also have a website which you can access <a href="https://douglasgoulart.com">here</a>.</li>
 </ul>
