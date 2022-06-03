@@ -1,5 +1,5 @@
 
-<h1>Hello world <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 5px />! I'm <a href="https://douglasgoulart.com">Douglas</a></h1> 
+<h1>Hello world 👋! I'm <a href="https://douglasgoulart.com">Douglas</a></h1> 
 <p>
     Full-stack developer moved by curiosity, Laravel evangelist and tech lover 💖.
 </p>
