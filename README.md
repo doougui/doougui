@@ -1,7 +1,7 @@
 
 <h1>Hello world 👋! I'm <a href="https://douglasgoulart.com">Douglas</a></h1> 
 <p>
-    Full-stack developer moved by curiosity, Laravel evangelist and tech lover 💖.
+    Front-end and Mobile developer moved by curiosity 💖.
 </p>
 <p>
     <a href="https://douglasgoulart.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-douglasgoulart.com-107BEB?style=flat-square&amp;labelColor=107BEB&amp;logo=Firefox&amp;link=https://douglasgoulart.com" target="_blank" rel="noreferrer" alt="Website Badge"></a> 
@@ -17,7 +17,6 @@
 <h2>⚡️ Fun Facts</h2>
 <ul>
     <li>👨‍💻 Most of my projects are available on <a href="https://github.com/doougui">Github</a></li>
-    <li>✨ My favorite development tool is <a href="https://laravel.com/" target="_blank" rel="noreferrer">Laravel</a></li>
     <li>🎮 I play games as a hobby and my favorite ones are Life is Strange, NieR: Automata and the Red Dead Redemption.</li>
     <li>✍️ Sometimes I like to share cool things I learn. You can check my <a href="https://dev.to/doougui">blog posts here</a>.</li>
     <li>🌎 I also have a website which you can access <a href="https://douglasgoulart.com">here</a>.</li>
@@ -25,6 +24,7 @@
 
 <h2>📘 My latest posts</h2>
 <ul>
+  <li><a href="https://dev.to/doougui/avoid-typescript-errors-in-your-project-by-using-the-typescript-compiler-287"><b>⚛️ Avoid TypeScript errors in your project by using the TypeScript compiler</b></a><br/><i>Follow along to create an error-proof project, especially if you configure husky and lint-staged too!</i></li>
   <li><a href="https://dev.to/doougui/deploying-your-laravel-mysql-application-on-heroku-5d92"><b>🚀 Deploying your Laravel + MySQL application on Heroku</b></a><br/><i>Show your Laravel project to the world.</i></li>
   <li><a href="https://dev.to/doougui/como-fazer-efeito-de-skeleton-loading-com-react-hooks-23hp"><b>⚛️ Como fazer efeito de skeleton loading com ReactJS</b></a><br/><i>Melhore a UX do seu app mostrando um esqueleto do conteúdo.</i></li>
 </ul>
