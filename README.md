@@ -4,12 +4,11 @@
     React and React Native developer moved by curiosity ❤️.
 </p>
 <p>
-    <a href="https://douglasgoulart.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-douglasgoulart.com-107BEB?style=flat-square&amp;labelColor=107BEB&amp;logo=Firefox&amp;link=https://douglasgoulart.com" target="_blank" rel="noreferrer" alt="Website Badge"></a> 
-    <a href="https://dev.to/doougui" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@douglaspigoulart-E5989B?style=flat-square&amp;labelColor=E5989B&amp;logo=Dev.to&amp;link=https://dev.to/doougui" alt="Dev.to Badge"></a> 
-    <a href="https://www.linkedin.com/in/douglaspigoulart/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@douglaspigoulart-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/douglaspigoulart/" alt="LinkedIn Badge"></a> 
-    <a href="https://open.spotify.com/user/doouugui" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@doouugui%20-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/doouugui" alt="Spotify Badge"></a>
-    <a href="https://stackoverflow.com/users/10859734/doougui" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@doougui-f48024?style=flat&labelColor=f48024&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/10859734/doougui" alt="Stack Overflow Badge"></a> 
-    <a href="https://instagram.com/doug_pg" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@doug_pg-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/doug_pg/" alt="Instagram Badge"></a>
+    <a href="https://twitter.com/oDougui" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" rel="noreferrer" alt="Twitter Badge"></a>
+    <a href="https://douglasgoulart.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" rel="noreferrer" alt="Website Badge"></a> 
+    <a href="https://douglasgoulart.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@douglaspigoulart-E5989B?style=for-the-badge&logo=Dev.to&logoColor=white" target="_blank" rel="noreferrer" alt="Dev.to Badge"></a> 
+    <a href="https://www.linkedin.com/in/douglaspigoulart/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> 
+    <a href="https://instagram.com/doug_pg" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"></a>
 </p>
 
 <img align="right" src="https://media.giphy.com/media/btTrrWDAyop8c/giphy.gif" width="400" />
@@ -29,33 +28,52 @@
   <li><a href="https://dev.to/doougui/como-fazer-efeito-de-skeleton-loading-com-react-hooks-23hp"><b>⚛️ Como fazer efeito de skeleton loading com ReactJS</b></a><br/><i>Melhore a UX do seu app mostrando um esqueleto do conteúdo.</i></li>
 </ul>
 
-<h2>🚀 Some Tools I Use</h2>
-<p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25"  />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25"  />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="css3" width="25"  />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25"  />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="25"  />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25"  />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25"  />
-    <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_white.svg" alt="mariadb" width="25"  />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="25"  />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="25" />
-    <img src="https://laracasts.com/images/topics/icons/livewire-logo.svg" alt="livewire" width="25" />
-    <img src="https://laracasts.com/images/topics/icons/tailwind-logo.svg" alt="tailwind" width="25" />
-    <img src="https://laracasts.com/images/topics/icons/alpine-logo.svg" alt="alpine" width="25" />
-</p>
+## 🚀 Tools I use on a daily basis
 
-<h2>👨‍💻 Stuff I worked on last week</h2>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Doougui&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Douglas' WakaTime Stats">
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript&logoColor=333333&color=F7E018)
+![TypeScript](https://img.shields.io/badge/typescript-6DA55F?style=for-the-badge&logo=typescript&logoColor=white&color=3179C7)
+![ReactJS](https://img.shields.io/badge/react-C.svg?style=for-the-badge&logo=react&color=282C34)
+![NextJS](https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/react%20native-000?style=for-the-badge&logo=react&logoColor=white&color=61dafb)
+![Expo](https://img.shields.io/badge/Expo-000?style=for-the-badge&logo=expo&logoColor=white&color=5c49eb)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-C.svg?style=for-the-badge&logo=figma&color=fff)
+![Linux](https://img.shields.io/badge/linux-C.svg?style=for-the-badge&logo=linux&logoColor=000&color=FF0)
 
-<h2>:octocat: My GitHub Stats</h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/?username=doougui&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-
-<h2>:briefcase: My GitLab Stats</h2>
-
-[![Douglas Pinheiro Goulart GitLab Stats](https://combinedcodingstats.azurewebsites.net/gitlab/douglaspigoulart?platform=github&theme=dark&animation=false)](https://github.com/doougui)
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <details>
+        <summary>👨‍💻 Stuff I worked on last week</summary>
+        <div align="center">
+          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Doougui&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Douglas' WakaTime Stats" />
+        </div>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <details>
+        <summary>:octocat: My GitHub Stats</summary>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/?username=doougui&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+        </a>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <details>
+        <summary>:briefcase: My GitLab Stats</summary>
+        <a href="https://gitlab.com/douglaspigoulart">
+          <img src="https://combinedcodingstats.azurewebsites.net/gitlab/douglaspigoulart?platform=github&theme=dark&animation=false" />
+        </a>
+      </details>
+    </td>
+  </tr>
+</table>
 
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=doougui.doougui" alt="visitors"></p>
