@@ -18,14 +18,14 @@
     <li>👨‍💻 Most of my projects are available on <a href="https://github.com/doougui">GitHub</a></li>
     <li>🎮 I play games as a hobby and my favorite ones are Life is Strange, NieR: Automata and the Red Dead Redemption.</li>
     <li>✍️ Sometimes I like to share cool things I learn. You can check my <a href="https://dev.to/doougui">blog posts here</a>.</li>
-    <li>🌎 I also have a website which you can access <a href="https://douglasgoulart.com">here</a>.</li>
+    <li>🌎 I also have a website which you can access <a href="https://douglasgoulart.com" target="_blank">here</a>.</li>
 </ul>
 
 <h2>📘 My latest posts</h2>
 <ul>
-  <li><a href="https://dev.to/doougui/avoid-typescript-errors-in-your-project-by-using-the-typescript-compiler-287"><b>⚛️ Avoid TypeScript errors in your project by using the TypeScript compiler</b></a><br/><i>Follow along to create an error-proof project, especially if you configure husky and lint-staged too!</i></li>
-  <li><a href="https://dev.to/doougui/deploying-your-laravel-mysql-application-on-heroku-5d92"><b>🚀 Deploying your Laravel + MySQL application on Heroku</b></a><br/><i>Show your Laravel project to the world.</i></li>
-  <li><a href="https://dev.to/doougui/como-fazer-efeito-de-skeleton-loading-com-react-hooks-23hp"><b>⚛️ Como fazer efeito de skeleton loading com ReactJS</b></a><br/><i>Melhore a UX do seu app mostrando um esqueleto do conteúdo.</i></li>
+  <li><a href="https://dev.to/doougui/avoid-typescript-errors-in-your-project-by-using-the-typescript-compiler-287" target="_blank"><b>⚛️ Avoid TypeScript errors in your project by using the TypeScript compiler</b></a><br/><i>Follow along to create an error-proof project, especially if you configure husky and lint-staged too!</i></li>
+  <li><a href="https://dev.to/doougui/deploying-your-laravel-mysql-application-on-heroku-5d92" target="_blank"><b>🚀 Deploying your Laravel + MySQL application on Heroku</b></a><br/><i>Show your Laravel project to the world.</i></li>
+  <li><a href="https://dev.to/doougui/como-fazer-efeito-de-skeleton-loading-com-react-hooks-23hp" target="_blank"><b>⚛️ Como fazer efeito de skeleton loading com ReactJS</b></a><br/><i>Melhore a UX do seu app mostrando um esqueleto do conteúdo.</i></li>
 </ul>
 
 ## 🧰 Main tools
@@ -65,7 +65,7 @@
     <td valign="top" width="50%">
       <details>
         <summary>:octocat: My GitHub Stats</summary>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
+        <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/?username=doougui&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
         </a>
       </details>
@@ -75,9 +75,7 @@
     <td valign="top" width="50%">
       <details>
         <summary>:briefcase: My GitLab Stats</summary>
-        <a href="https://gitlab.com/douglaspigoulart">
-          <img src="https://combinedcodingstats.azurewebsites.net/gitlab/douglaspigoulart?platform=github&theme=dark&animation=false" />
-        </a>
+        You can view my GitLab profile <a href="https://gitlab.com/douglaspigoulart" target="_blank">here</a>.
       </details>
     </td>
   </tr>
