@@ -28,7 +28,7 @@
   <li><a href="https://dev.to/doougui/como-fazer-efeito-de-skeleton-loading-com-react-hooks-23hp"><b>⚛️ Como fazer efeito de skeleton loading com ReactJS</b></a><br/><i>Melhore a UX do seu app mostrando um esqueleto do conteúdo.</i></li>
 </ul>
 
-## 🚀 Tools I use on a daily basis
+## 🧰 Main tools
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -37,11 +37,15 @@
 ![ReactJS](https://img.shields.io/badge/react-C.svg?style=for-the-badge&logo=react&color=282C34)
 ![NextJS](https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/react%20native-000?style=for-the-badge&logo=react&logoColor=white&color=61dafb)
+
+## 🪛 Additional tools and dev ecossystem
+
 ![Expo](https://img.shields.io/badge/Expo-000?style=for-the-badge&logo=expo&logoColor=white&color=5c49eb)
+![Eslint](https://img.shields.io/badge/eslint%20-%23000000.svg?&style=for-the-badge&logo=eslint&logoColor=white&color=4B32C3)
+![Prettier](https://img.shields.io/badge/prettier%20-%23000000.svg?&style=for-the-badge&logo=prettier&logoColor=black&color=f8bc45)
 ![Jest](https://img.shields.io/badge/jest%20-%23000000.svg?&style=for-the-badge&logo=jest&logoColor=&color=c21325)
 ![React Testing Library](https://img.shields.io/badge/testing%20library-%23000000.svg?&style=for-the-badge&logo=testing-library&color=242526)
 ![Storybook](https://img.shields.io/badge/storybook-%23000000.svg?&style=for-the-badge&logo=storybook&color=059DFD)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-C.svg?style=for-the-badge&logo=figma&color=fff)
 ![Linux](https://img.shields.io/badge/linux-C.svg?style=for-the-badge&logo=linux&logoColor=000&color=FF0)
