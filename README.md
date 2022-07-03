@@ -11,7 +11,10 @@
     <a href="https://twitter.com/oDougui" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" rel="noreferrer" alt="Twitter Badge"></a>
 </p>
 
-<img align="right" src="https://media.giphy.com/media/btTrrWDAyop8c/giphy.gif" width="400" />
+<!-- <img align="right" src="https://media.giphy.com/media/btTrrWDAyop8c/giphy.gif" width="400" /> -->
+<a href="https://app.daily.dev/Doougui">
+  <img align="right" src="https://api.daily.dev/devcards/a8b9a3f31fb44deeb9d4735ab4c79ebf.png?r=sj2" width="300" alt="Douglas Pinheiro Goulart's Dev Card"/>
+</a>
 
 <h2>⚡️ Fun Facts</h2>
 <ul>
