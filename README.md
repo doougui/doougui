@@ -83,7 +83,7 @@
             <img src="https://mydevmetrics.azurewebsites.net/GitLab/douglaspigoulart?platform=github&theme=dark&animation=false" />
         </a>
         <br /><br />
-        :warning: Since Sep 27, 2022 the company I work at changed for a internal gitlab instance, so these stats are now outdated. You can see the stats for this specific company <a href="https://gitlab.tecimob.com.br/doougui" target="_blank">here</a>.
+        :warning: Since Sep 26, 2022 the company I work at changed for a internal gitlab instance, so these stats are now outdated. You can see the stats for this specific company <a href="https://gitlab.tecimob.com.br/doougui" target="_blank">here</a>.
       </details>
     </td>
   </tr>
