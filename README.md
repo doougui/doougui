@@ -26,9 +26,7 @@
 
 <h2>📘 My latest posts</h2>
 <ul>
-  <li><a href="https://dev.to/doougui/avoid-typescript-errors-in-your-project-by-using-the-typescript-compiler-287" target="_blank"><b>⚛️ Avoid TypeScript errors in your project by using the TypeScript compiler</b></a><br/><i>Follow along to create an error-proof project, especially if you configure husky and lint-staged too!</i></li>
-  <li><a href="https://dev.to/doougui/deploying-your-laravel-mysql-application-on-heroku-5d92" target="_blank"><b>🚀 Deploying your Laravel + MySQL application on Heroku</b></a><br/><i>Show your Laravel project to the world.</i></li>
-  <li><a href="https://dev.to/doougui/como-fazer-efeito-de-skeleton-loading-com-react-hooks-23hp" target="_blank"><b>⚛️ Como fazer efeito de skeleton loading com ReactJS</b></a><br/><i>Melhore a UX do seu app mostrando um esqueleto do conteúdo.</i></li>
+  <li><a href="https://www.douglasgoulart.com/writings/avoid-typescript-errors-in-your-project-by-using-the-typescript-compiler" target="_blank"><b>⚛️ Avoid TypeScript errors in your project by using the TypeScript compiler</b></a><br/><i>Follow along to create an error-proof project, especially if you configure husky and lint-staged too!</i></li>
 </ul>
 
 ## 🧰 Main tools
