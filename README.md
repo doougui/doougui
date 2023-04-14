@@ -46,11 +46,13 @@
 ![Expo](https://img.shields.io/badge/Expo-000?style=for-the-badge&logo=expo&logoColor=white&color=5c49eb)
 ![Eslint](https://img.shields.io/badge/eslint%20-%23000000.svg?&style=for-the-badge&logo=eslint&logoColor=white&color=4B32C3)
 ![Prettier](https://img.shields.io/badge/prettier%20-%23000000.svg?&style=for-the-badge&logo=prettier&logoColor=black&color=f8bc45)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Jest](https://img.shields.io/badge/jest%20-%23000000.svg?&style=for-the-badge&logo=jest&logoColor=&color=c21325)
 ![React Testing Library](https://img.shields.io/badge/testing%20library-%23000000.svg?&style=for-the-badge&logo=testing-library&color=242526)
 ![Storybook](https://img.shields.io/badge/storybook-%23000000.svg?&style=for-the-badge&logo=storybook&color=059DFD)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-C.svg?style=for-the-badge&logo=figma&color=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-C.svg?style=for-the-badge&logo=linux&logoColor=000&color=FF0)
 
 <table>
