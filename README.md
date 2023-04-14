@@ -38,6 +38,8 @@
 ![ReactJS](https://img.shields.io/badge/react-C.svg?style=for-the-badge&logo=react&color=282C34)
 ![NextJS](https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/react%20native-000?style=for-the-badge&logo=react&logoColor=white&color=61dafb)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 ## 🪛 Additional tools and dev ecossystem
 
