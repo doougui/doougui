@@ -1,7 +1,7 @@
 
 <h1>Hello world 👋! I'm <a href="https://douglasgoulart.com">Douglas</a></h1> 
 <p>
-    React and React Native developer moved by curiosity ❤️.
+    Full-stack developer moved by curiosity ❤️.
 </p>
 <p>
     <a href="https://douglasgoulart.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" rel="noreferrer" alt="Website Badge"></a> 
