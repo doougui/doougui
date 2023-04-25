@@ -26,6 +26,7 @@
 
 <h2>📘 My latest posts</h2>
 <ul>
+  <li><a href="https://www.douglasgoulart.com/writings/creating-a-complete-nodejs-test-environment-with-vitest-postgresql-and-prisma" target="_blank"><b>🧪 Creating a complete Node.js test environment with Vitest, PostgreSQL and Prisma</b></a><br/><i>Create a Node.js complete test environment using TypeScript, Prisma, PostgreSQL and Vitest.</i></li>
   <li><a href="https://www.douglasgoulart.com/writings/avoid-typescript-errors-in-your-project-by-using-the-typescript-compiler" target="_blank"><b>⚛️ Avoid TypeScript errors in your project by using the TypeScript compiler</b></a><br/><i>Follow along to create an error-proof project, especially if you configure husky and lint-staged too!</i></li>
 </ul>
 
