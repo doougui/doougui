@@ -89,4 +89,4 @@
   </tr>
 </table>
 
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=doougui.doougui" alt="visitors"></p>
+[![wakatime](https://wakatime.com/badge/user/166e660e-140c-42f2-a2cb-43196650066d.svg)](https://wakatime.com/@166e660e-140c-42f2-a2cb-43196650066d)
