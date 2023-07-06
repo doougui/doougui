@@ -83,7 +83,7 @@
         <summary>:briefcase: My GitLab Stats</summary>
         <br />
         <p>My GitLab profile can be found <a href="https://gitlab.com/douglaspigoulart" target="_blank">here</a>.</p>
-        :warning: The company I work at uses an internal GitLab instance, so my status can be found <a href="https://gitlab.ecoportal.co.nz/douglas" target="_blank">here</a>.
+        :warning: The company I work at uses an internal GitLab instance, so my stats can be found <a href="https://gitlab.ecoportal.co.nz/douglas" target="_blank">here</a>.
       </details>
     </td>
   </tr>
