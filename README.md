@@ -19,7 +19,7 @@
 <h2>⚡️ Fun Facts</h2>
 <ul>
     <li>👨‍💻 Most of my projects are available on <a href="https://github.com/doougui">GitHub</a>.</li>
-    <li>🎮 I play games as a hobby and my favorite ones are Life is Strange, The Last of Us and the GTA franchise.</li>
+    <li>🎮 I play games as a hobby and my favorite ones are The Last of Us, Life is Strange and the GTA franchise.</li>
     <li>✍️ Sometimes I like to share cool things I learn. You can check my <a href="https://www.douglasgoulart.com/writings">blog posts here</a>.</li>
     <li>🌎 I also have a website which you can access <a href="https://douglasgoulart.com" target="_blank">here</a>.</li>
 </ul>
