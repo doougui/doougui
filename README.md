@@ -56,37 +56,4 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-C.svg?style=for-the-badge&logo=linux&logoColor=000&color=FF0)
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <details>
-        <summary>👨‍💻 WakaTime Stats</summary>
-        <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Doougui&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact" alt="Douglas' WakaTime Stats" />
-        </div>
-      </details>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <details>
-        <summary>:octocat: My GitHub Stats</summary>
-        <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/?username=doougui&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-        </a>
-      </details>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <details>
-        <summary>:briefcase: My GitLab Stats</summary>
-        <br />
-        <p>My GitLab profile can be found <a href="https://gitlab.com/douglaspigoulart" target="_blank">here</a>.</p>
-        :warning: The company I work at uses an internal GitLab instance, so my stats can be found <a href="https://gitlab.ecoportal.co.nz/douglas" target="_blank">here</a>.
-      </details>
-    </td>
-  </tr>
-</table>
-
 [![wakatime](https://wakatime.com/badge/user/166e660e-140c-42f2-a2cb-43196650066d.svg)](https://wakatime.com/@166e660e-140c-42f2-a2cb-43196650066d)
